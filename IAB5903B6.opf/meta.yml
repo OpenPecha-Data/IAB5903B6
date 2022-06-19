@@ -1,0 +1,35 @@
+id: IAB5903B6
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T14:18:56.272236'
+last_modified: '2022-06-19T14:18:56.272247'
+parser: null
+source_metadata:
+  title: New Red Annals
+  author: paN chen bsod nams grags pa/
+  description: Digital version 1.0 {Wylie}; unrevised, thematic TEI markup
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:Sakya Research Centre (src)
+  - Text input:Rime Centre Moscow, OCR-processed
+  - Editorial process:Mathias Fermer (mf), Kunga Dorje (kun)
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:Mathias Fermer (mf)
+  - Revisions/Corrections:Kunga Dorje (kun)
+  text_witnesses: https://sakyaresearch.org/sources/113
+  bases:
+    93cd:
+      title: New Red Annals
+      order: 1
+      base_file: 93cd.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
